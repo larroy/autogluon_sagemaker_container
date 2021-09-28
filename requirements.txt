@@ -1,0 +1,6 @@
+pkutils
+matplotlib
+pandas
+autogluon.tabular
+flask
+gunicorn
