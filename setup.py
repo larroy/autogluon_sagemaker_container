@@ -10,7 +10,7 @@ with open("README.md", "r") as f:
     LONG_DESCRIPTION = f.read()
 
 setup(
-    name="autogluon_training_container",
+    name="autogluon_container",
     version="0.1",
     packages=find_packages("src"),
     package_dir={"": "src"},

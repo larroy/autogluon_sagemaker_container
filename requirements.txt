@@ -1,6 +1,6 @@
 pkutils
 matplotlib
 pandas
-autogluon.tabular
+autogluon.tabular==0.2.0
 flask
 gunicorn
